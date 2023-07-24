@@ -1,3 +1,5 @@
+# Download release here
+https://github.com/DreamAutomotive/gravity-form-email-extractor/releases/tag/v1.0
 # How to use it
 
 1. Go to gravity forms plugin import export section.
