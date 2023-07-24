@@ -1,0 +1,6 @@
+{
+  "name": "gfrom_email_extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
